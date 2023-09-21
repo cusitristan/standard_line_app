@@ -1,5 +1,5 @@
 # How to Install
-Copy folder into prefered directory on your machine
+1) Clone repo or download zip file
 
 ## How to Use
 1. Navigate to project directory in terminal/command-prompt
